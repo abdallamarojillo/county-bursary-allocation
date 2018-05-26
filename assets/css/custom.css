@@ -1,0 +1,12 @@
+.btn, .btn-large {
+  background-color: #2196F3;
+}
+
+button:focus {
+   outline: none;
+   background-color: #2196F3;
+}
+
+.btn:hover, .btn-large:hover {
+   background-color: #64b5f6;
+}
